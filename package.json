@@ -1,0 +1,24 @@
+{
+  "name": "quantopia",
+  "version": "1.0.0",
+  "description": "quantopia is a collection of elementary financial functions implemented in JavaScript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Menzi-B/quantopia.git"
+  },
+  "keywords": [
+    "Finance",
+    "Mathematics",
+    "Quant"
+  ],
+  "author": "Menzi Bomba",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Menzi-B/quantopia/issues"
+  },
+  "homepage": "https://github.com/Menzi-B/quantopia#readme"
+}
